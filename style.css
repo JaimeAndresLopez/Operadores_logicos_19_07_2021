@@ -1,0 +1,16 @@
+table{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+th{
+    background-color: #ddeeff;
+    color: #000;
+    font-size: 1em;
+}
+tr, th, td{
+    border: 1px solid #aaa;
+}
+td{
+    background: #dfd;
+}
